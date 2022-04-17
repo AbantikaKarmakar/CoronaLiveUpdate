@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CoronaLiveUpdate/static/css/main.06641d33.css",
+    "main.js": "/CoronaLiveUpdate/static/js/main.546785b5.js",
+    "static/js/787.55e404cb.chunk.js": "/CoronaLiveUpdate/static/js/787.55e404cb.chunk.js",
+    "index.html": "/CoronaLiveUpdate/index.html",
+    "main.06641d33.css.map": "/CoronaLiveUpdate/static/css/main.06641d33.css.map",
+    "main.546785b5.js.map": "/CoronaLiveUpdate/static/js/main.546785b5.js.map",
+    "787.55e404cb.chunk.js.map": "/CoronaLiveUpdate/static/js/787.55e404cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06641d33.css",
+    "static/js/main.546785b5.js"
+  ]
+}
